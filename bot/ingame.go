@@ -2,7 +2,6 @@ package bot
 
 import (
 	"bytes"
-	"errors"
 	"fmt"
 	"io/ioutil"
 

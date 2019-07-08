@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 	// "io"
-	"github.com/Tnze/go-mc/data"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/Stefatorus/go-mc/data"
+	pk "github.com/Stefatorus/go-mc/net/packet"
 )
 
 //DecodeChunkColumn decode the chunk data structure

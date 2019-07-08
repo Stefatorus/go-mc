@@ -1,10 +1,10 @@
 package bot
 
 import (
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/bot/world/entity/player"
-	"github.com/Tnze/go-mc/net"
+	"github.com/Stefatorus/go-mc/bot/world"
+	"github.com/Stefatorus/go-mc/bot/world/entity"
+	"github.com/Stefatorus/go-mc/bot/world/entity/player"
+	"github.com/Stefatorus/go-mc/net"
 )
 
 // Client is used to access Minecraft server

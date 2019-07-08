@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
+	"github.com/Stefatorus/go-mc/bot"
+	"github.com/Stefatorus/go-mc/chat"
 	"log"
 	"time"
 )

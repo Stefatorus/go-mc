@@ -1,7 +1,7 @@
 package world
 
 import (
-	"github.com/Tnze/go-mc/bot/world/entity"
+	"github.com/Stefatorus/go-mc/bot/world/entity"
 )
 
 //World record all of the things in the world where player at

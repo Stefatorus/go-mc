@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Tnze/go-mc/data"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/Stefatorus/go-mc/data"
+	pk "github.com/Stefatorus/go-mc/net/packet"
 )
 
 //Message is a message sent by other

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/Stefatorus/go-mc/net"
+	pk "github.com/Stefatorus/go-mc/net/packet"
 )
 
 // ProtocolVersion , the protocol version number of minecraft net protocol

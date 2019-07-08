@@ -1,7 +1,7 @@
 package bot
 
 import (
-	"github.com/Tnze/go-mc/chat"
+	"github.com/Stefatorus/go-mc/chat"
 )
 
 type eventBroker struct {

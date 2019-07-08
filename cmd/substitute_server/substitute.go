@@ -20,12 +20,12 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Tnze/go-mc/authenticate"
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/net"
-	"github.com/Tnze/go-mc/net/CFB8"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/Stefatorus/go-mc/authenticate"
+	"github.com/Stefatorus/go-mc/bot"
+	"github.com/Stefatorus/go-mc/chat"
+	"github.com/Stefatorus/go-mc/net"
+	"github.com/Stefatorus/go-mc/net/CFB8"
+	pk "github.com/Stefatorus/go-mc/net/packet"
 	uuid "github.com/satori/go.uuid"
 )
 

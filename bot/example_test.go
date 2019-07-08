@@ -1,7 +1,7 @@
 package bot
 
 import (
-	"github.com/Tnze/go-mc/authenticate"
+	"github.com/Stefatorus/go-mc/authenticate"
 	"log"
 )
 

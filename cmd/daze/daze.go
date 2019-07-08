@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
-	// "github.com/Tnze/go-mc/authenticate"
+	"github.com/Stefatorus/go-mc/bot"
+	"github.com/Stefatorus/go-mc/chat"
+	// "github.com/Stefatorus/go-mc/authenticate"
 )
 
 func main() {

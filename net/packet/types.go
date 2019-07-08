@@ -4,7 +4,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/Tnze/go-mc/nbt"
+	"github.com/Stefatorus/go-mc/nbt"
 )
 
 // A Field is both FieldEncoder and FieldDecoder

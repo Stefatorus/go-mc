@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
+	"github.com/Stefatorus/go-mc/bot"
+	"github.com/Stefatorus/go-mc/chat"
 	uuid "github.com/satori/go.uuid"
 )
 

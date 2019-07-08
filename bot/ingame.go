@@ -574,7 +574,7 @@ func handleWindowItemsPacket(c *Client, p pk.Packet) (err error) {
 	switch windowID {
 	case 0: //is player's inventory
 		if len(slots) != len(c.Inventory) {
-			return errors.New("inventory len not match")
+			// return errors.New("inventory len not match")
 		}
 		for i, v := range slots { //copy this Inventory to player's Inventory
 			c.Inventory[i] = v
